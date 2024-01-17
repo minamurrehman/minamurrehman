@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning Astro.
 - 📫 How to reach me email me: minamurrehman343@gmail.com
-- 😄 Pronouns: Mr
+- 😄 Pronouns: He/Him
 
 <!---
 minamurrehman/minamurrehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
